@@ -17,4 +17,6 @@ export class CartService {
     this.items = [];
     return this.items;
   }
+
+  //write getShippingPrices  Here
 }
